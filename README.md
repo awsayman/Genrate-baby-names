@@ -14,3 +14,4 @@ Input: Requires you to input lettes
 
 Output: Genrate 6 diffent names from given input 
 
+![alt text](https://raw.githubusercontent.com/aws-ayman/Genrate-baby-names/branch/path/to/s-1.png)
